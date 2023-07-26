@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trndll
 - 👀 I’m interested in Coding | Prgramming | Development | AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on anything delaomg with my interests.
+- 💞️ I’m looking to collaborate on anything related to my interests.
 - 📫 How to reach me checkout my website trndll.com/ for more information.
 
 <!---
